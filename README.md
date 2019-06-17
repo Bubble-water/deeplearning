@@ -1,6 +1,7 @@
 # deeplearning
 ## 深度学习框架配置
 ## 所有配置教程本人全部亲自测试并且通过验证的
+## [有道云笔记链接](http://note.youdao.com/noteshare?id=3a9cc8630338ed19528d69872e8fcdca&sub=177A57A52F7E427691496BE297B5BA33)
 
 
 一、装系统  
@@ -35,6 +36,7 @@
 + [解决：Ubuntu16.04循环登录和重新安装显卡驱动](http://note.youdao.com/noteshare?id=26b3fd8d702ad1e72c96381386fcf500&sub=4445DD8709504B7497833860970818E4)
 + [虚拟机安装linux系统界面显示不全解决办法](http://note.youdao.com/noteshare?id=0d08fde70b892d3b6c3be77d491f9b26&sub=9C957CE5F2264F1CA9B0897252285B09)
 + [查看python包路径和版本号](http://note.youdao.com/noteshare?id=2d91e786aa91c30b9c955dbf8067943f&sub=86D2887F3F964A418CFD0EBD7E7E4203)
++ [windows+ubuntu双系统](http://note.youdao.com/noteshare?id=d9828f20c1c601a065a82d5dc6adbd3c&sub=9B9C645AD4324B559C89CC21443C3D64)
 ----
 深度学习框架版本简单查看方法
 ```
