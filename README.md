@@ -38,6 +38,7 @@
 + [查看python包路径和版本号](http://note.youdao.com/noteshare?id=2d91e786aa91c30b9c955dbf8067943f&sub=86D2887F3F964A418CFD0EBD7E7E4203)
 + [windows+ubuntu双系统](http://note.youdao.com/noteshare?id=d9828f20c1c601a065a82d5dc6adbd3c&sub=9B9C645AD4324B559C89CC21443C3D64)
 + [pip和anaconda下载安装源地址--离线安装包](http://note.youdao.com/noteshare?id=c0f25de846da8ef84ab01c452506fdee&sub=E63B786E288B49B084C5A4B597F501BC)
++ [windows安装python一些库，需要离线下载可以在你这里找到](https://www.lfd.uci.edu/~gohlke/pythonlibs/)
 ----
 深度学习框架版本简单查看方法
 ```
