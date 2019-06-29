@@ -23,7 +23,7 @@
 
 八、[YOLO安装](http://note.youdao.com/noteshare?id=49c34adb21a6f281469bfcc3d3ee82b3&sub=1367D6970A6446C29FF8DFD7E7C2EE32) 
 + 8.1 [训练自己数据集](http://note.youdao.com/noteshare?id=7ddb40caa5eb439d7cbd6b13ddf543bf&sub=37DC8922EC4340B298D0206DA11D9435)
-+ 8.2 [yolo提升技能--待续]()
++ 8.2 [yolo提升技能--待续]()  
 九、虚拟环境--版本号管理  
 + 9.1 [anaconda虚拟环境](http://note.youdao.com/noteshare?id=42be69200321a6cb03ce80f70cc29b0c&sub=16482F6C29CC43CB9418168EF4C083DD)
 + 9.2 [virtualenv虚拟环境---待续]()
