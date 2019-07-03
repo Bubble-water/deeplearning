@@ -1,6 +1,6 @@
 # deeplearning
-## 深度学习框架配置
-## 所有配置教程本人全部亲自测试并且通过验证的
+## 深度学习框架配置和实践
+## 所有配置和实践教程本人全部亲自测试并且通过验证的
 ## [有道云笔记链接](http://note.youdao.com/noteshare?id=3a9cc8630338ed19528d69872e8fcdca&sub=177A57A52F7E427691496BE297B5BA33)
 
 
@@ -27,11 +27,14 @@
 
 九、虚拟环境--版本号管理  
 + 9.1 [anaconda虚拟环境](http://note.youdao.com/noteshare?id=42be69200321a6cb03ce80f70cc29b0c&sub=16482F6C29CC43CB9418168EF4C083DD)
-+ 9.2 [virtualenv虚拟环境---待续]()
++ 9.2 [virtualenv虚拟环境---待续]()   
+十、实践
++ 10.1 [object detection--待续]
+    
 
 
 其他资料：
-+ [学习资料---推荐多多浏览](http://note.youdao.com/noteshare?id=e4598e03330c2c26c6fe713b6b792ce2&sub=1317688C484543918E281FD758A0751D)
++ #### [学习资料---推荐多多浏览](https://github.com/Bubble-water/deeplearning/blob/master/%E5%AD%A6%E4%B9%A0%E8%B5%84%E6%96%99.md)
 + [论文查找和下载](http://note.youdao.com/noteshare?id=713f336aea3736f5b9a3175395c0468a&sub=ECD7BE79AED640FC863D2EC43A3A35C2)
 + [参考文献方法](http://note.youdao.com/noteshare?id=d2ca2afdc50b97cd5d10ce7ad44bf141&sub=7A4E0024B0BD45359227318AE7060E1C)
 + [arxiv论文怎么读](http://note.youdao.com/noteshare?id=42a06ee91e679d750ffc3dc049d3751e&sub=4A727CDDA3FF4F50B748FE6D3DDA0548)
