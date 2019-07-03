@@ -29,8 +29,32 @@
 + 9.1 [anaconda虚拟环境](http://note.youdao.com/noteshare?id=42be69200321a6cb03ce80f70cc29b0c&sub=16482F6C29CC43CB9418168EF4C083DD)
 + 9.2 [virtualenv虚拟环境](http://note.youdao.com/noteshare?id=937548c72534f62a8db995af4592c40d&sub=707D6ADECA504C02B06F954127FD6B15)  
 
+九、虚拟环境--版本号管理  
++ 9.1 [anaconda虚拟环境](http://note.youdao.com/noteshare?id=42be69200321a6cb03ce80f70cc29b0c&sub=16482F6C29CC43CB9418168EF4C083DD)
+    * [pycharm导入环境--待续(waiting)]()
++ 9.2 [virtualenv虚拟环境](http://note.youdao.com/noteshare?id=937548c72534f62a8db995af4592c40d&sub=707D6ADECA504C02B06F954127FD6B15)
+    * [pycharm导入环境--待续(waiting)]()
+
 十、实践
-+ 10.1 [object detection--待续]()   
++ 10.1 object detection
+    * [待续(waiting)]()
++ 10.2 openpose
+    - [待续(waiting)]()
++ 10.3 video understanding
+    + [待续(waiting)]()
++ 10.4 NLP
+    * [待续(waiting)]()
+
+十一、树莓派
++ 11.1 [系统安装](http://note.youdao.com/noteshare?id=aa30892237f8a924f8a3a89cca73d3d8&sub=7FB58236A2034101902868B32032261F)
+    * [检查树莓派的硬件版本号和型号](http://note.youdao.com/noteshare?id=ba56949c0d5a85d3072a528dea2f183d&sub=WEBa2786eb5846566677f0d9a7b659ac892)
+    * [查看进程和内存使用情况](http://note.youdao.com/noteshare?id=1df700d01baee40714425326be5e049f&sub=WEB1e73a35b43821064c9c5fb0dc5087d9b)
+    * [在树莓派上截屏的方法](http://note.youdao.com/noteshare?id=3de5546074934c2b8ab81520677d1821&sub=WEB9f2774e3b1766896d4e4c2d4173ef8a3)
+
++ 11.2 [opencv安装--待续(waiting)]()
+
+十二、深度学习深层理解
++ 12.1 [待续]() 
     
 
 
