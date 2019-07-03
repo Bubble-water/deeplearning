@@ -27,7 +27,7 @@
 
 九、虚拟环境--版本号管理  
 + 9.1 [anaconda虚拟环境](http://note.youdao.com/noteshare?id=42be69200321a6cb03ce80f70cc29b0c&sub=16482F6C29CC43CB9418168EF4C083DD)
-+ 9.2 [virtualenv虚拟环境---待续]()   
++ 9.2 [virtualenv虚拟环境](http://note.youdao.com/noteshare?id=937548c72534f62a8db995af4592c40d&sub=707D6ADECA504C02B06F954127FD6B15)  
 
 十、实践
 + 10.1 [object detection--待续]()   
