@@ -31,13 +31,14 @@
 
 九、虚拟环境--版本号管理  
 + 9.1 [anaconda虚拟环境](http://note.youdao.com/noteshare?id=42be69200321a6cb03ce80f70cc29b0c&sub=16482F6C29CC43CB9418168EF4C083DD)
-    * [pycharm导入虚拟环境环境](http://note.youdao.com/noteshare?id=f39ff1edb02db384473a366077b30571&sub=WEBdaec9747ab45ee3fce43b023d496b46c)
+    * [pycharm导入虚拟环境](http://note.youdao.com/noteshare?id=f39ff1edb02db384473a366077b30571&sub=WEBdaec9747ab45ee3fce43b023d496b46c)
 + 9.2 [virtualenv虚拟环境](http://note.youdao.com/noteshare?id=937548c72534f62a8db995af4592c40d&sub=707D6ADECA504C02B06F954127FD6B15)
-    * [pycharm导入虚拟环境环境](http://note.youdao.com/noteshare?id=c1f9b8cd76d1d372168dd9d138934e15&sub=WEB1c7e0e896c616bfe9b9760806bcb9457)
+    * [pycharm导入虚拟环境](http://note.youdao.com/noteshare?id=c1f9b8cd76d1d372168dd9d138934e15&sub=WEB1c7e0e896c616bfe9b9760806bcb9457)
 
 
 十、实践
 + 10.1 object detection
+    * [待续(waiting)]()
     * [待续(waiting)]()
 + 10.2 openpose
     - [待续(waiting)]()
@@ -55,7 +56,7 @@
 + 11.2 [opencv安装--待续(waiting)]()
 
 十二、深度学习深层理解
-+ 12.1 [待续]() 
++ 12.1 [待续(waiting)]() 
     
 
 
