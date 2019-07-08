@@ -53,7 +53,9 @@
     * [查看进程和内存使用情况](http://note.youdao.com/noteshare?id=1df700d01baee40714425326be5e049f&sub=WEB1e73a35b43821064c9c5fb0dc5087d9b)
     * [在树莓派上截屏的方法](http://note.youdao.com/noteshare?id=3de5546074934c2b8ab81520677d1821&sub=WEB9f2774e3b1766896d4e4c2d4173ef8a3)
 
-+ 11.2 [opencv安装--待续(waiting)]()
++ 11.2 opencv安装
+    * [opencv-python](http://note.youdao.com/noteshare?id=f0c0f31b680a504d095abad097a493f0&sub=5C49B0B7480B4D7DB721F267CCF69C91)
+    * [cmake源码编译-->opencv(c++,python)](http://note.youdao.com/noteshare?id=a2d29c31c416cc5cea837b0eb8ae2271&sub=WEB554ecce5e60f91682bc0426b0ddc1056)
 
 十二、深度学习深层理解
 + 12.1 [待续(waiting)]() 
