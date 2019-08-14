@@ -1,8 +1,4 @@
-# deeplearning
-## 深度学习框架配置和实践
-## 所有配置和实践教程本人全部亲自测试并且通过验证的
-## [有道云笔记链接](http://note.youdao.com/noteshare?id=3a9cc8630338ed19528d69872e8fcdca&sub=177A57A52F7E427691496BE297B5BA33)
-
+[TOC] 
 
 一、装系统  
 + 1.1 [ubuntu系统镜像链接](http://note.youdao.com/noteshare?id=8d2854f7afcef0f707eb488e15536239&sub=95DDAD1F5E044C3E8D070E87D001FA2B)   
@@ -23,7 +19,7 @@
 
 八、[YOLO安装](http://note.youdao.com/noteshare?id=49c34adb21a6f281469bfcc3d3ee82b3&sub=1367D6970A6446C29FF8DFD7E7C2EE32) 
 + 8.1 [训练自己数据集](http://note.youdao.com/noteshare?id=7ddb40caa5eb439d7cbd6b13ddf543bf&sub=37DC8922EC4340B298D0206DA11D9435)
-+ 8.2 [yolo提升技能--待续]()
++ 8.2 [yolo提升技能--待续(waiting)]()
 
 九、虚拟环境--版本号管理  
 + 9.1 [anaconda虚拟环境](http://note.youdao.com/noteshare?id=42be69200321a6cb03ce80f70cc29b0c&sub=16482F6C29CC43CB9418168EF4C083DD)
@@ -31,10 +27,19 @@
 + 9.2 [virtualenv虚拟环境](http://note.youdao.com/noteshare?id=937548c72534f62a8db995af4592c40d&sub=707D6ADECA504C02B06F954127FD6B15)
     * [pycharm导入虚拟环境](http://note.youdao.com/noteshare?id=c1f9b8cd76d1d372168dd9d138934e15&sub=WEB1c7e0e896c616bfe9b9760806bcb9457)
 
-
 十、实践
 + 10.1 object detection
-    * [待续(waiting)]()
+    * 数据准备  
+        * [voc2coco](http://note.youdao.com/noteshare?id=02384f8b8845d3f21d2add6d316f08f2&sub=WEBfd1faa68a14ed8d0d0f1498650f5b677) 
+        * [voc2csv](http://note.youdao.com/noteshare?id=e693bff8137b304ef39120c7a8d7845f&sub=WEBab01912a939665ccc835b43b8be4d84d)
+        * [coco2voc](http://note.youdao.com/noteshare?id=ef8c749626a650b152392221767c2c79&sub=WEB597890c311eb630e210a94385360cba5)
+        * [coco2csv](http://note.youdao.com/noteshare?id=d5fb51a719a19c73280e40efdbda9c72&sub=WEBca0f335a371e079d13132d935cd74bf0)
+        * [voc2yolo](http://note.youdao.com/noteshare?id=7ddb40caa5eb439d7cbd6b13ddf543bf&sub=37DC8922EC4340B298D0206DA11D9435)
+        * [labelme2voc_coco](https://github.com/spytensor/prepare_detection_dataset)
+        
+    * 数据增广
+        * [杰哥](https://github.com/spytensor/image_aug_for_detection)
+        * [张哥](https://github.com/maozezhong/CV_ToolBox/tree/master/DataAugForObjectDetection)
     * [待续(waiting)]()
 + 10.2 openpose
     - [待续(waiting)]()
@@ -43,7 +48,7 @@
 + 10.4 NLP
     * [待续(waiting)]()
 
-十一、树莓派
+十一、树莓派(轻量化模型实践)
 + 11.1 [系统安装](http://note.youdao.com/noteshare?id=aa30892237f8a924f8a3a89cca73d3d8&sub=7FB58236A2034101902868B32032261F)
     * [检查树莓派的硬件版本号和型号](http://note.youdao.com/noteshare?id=ba56949c0d5a85d3072a528dea2f183d&sub=WEBa2786eb5846566677f0d9a7b659ac892)
     * [查看进程和内存使用情况](http://note.youdao.com/noteshare?id=1df700d01baee40714425326be5e049f&sub=WEB1e73a35b43821064c9c5fb0dc5087d9b)
@@ -53,13 +58,20 @@
     * [opencv-python](http://note.youdao.com/noteshare?id=f0c0f31b680a504d095abad097a493f0&sub=5C49B0B7480B4D7DB721F267CCF69C91)
     * [cmake源码编译-->opencv(c++,python)](http://note.youdao.com/noteshare?id=a2d29c31c416cc5cea837b0eb8ae2271&sub=WEB554ecce5e60f91682bc0426b0ddc1056)
 
-十二、深度学习深层理解
-+ 12.1 [待续(waiting)]() 
-    
+十二、openvino
++ 12.1 [ubuntu16.04安装openvino](http://note.youdao.com/noteshare?id=8512f1238521d19de65db974cb6cbaac&sub=WEB74805ef8771071d5f6a59a72c9fabc27)
++ 12.2 [openvino资料](http://note.youdao.com/noteshare?id=9e88be5252db8f0e252655d4df375824&sub=WEBaad155b5ec1c9ef73c1d9a6e3fcae776)
 
+十三、深度学习深层理解
++ 13.1 [待续(waiting)]()
+
+十四、docker
++ 14.1 [Ubuntu16.04 docker安装](http://note.youdao.com/noteshare?id=94c7ef68409cfb91def0ba36aa41ffa0&sub=WEB11bb39c1c704c2acc970be8d350d2645)
++ 14.2 [ubuntu16.04+docker+nvidia-docker+深度学习配置(darknet)](http://note.youdao.com/noteshare?id=b4fcd20f9bd63f21729ade06cef8d39c&sub=D9C47A9322C24D7E951326D6D5D93B45)
++ 14.2 [docker一些命令](http://note.youdao.com/noteshare?id=81923c1c11d36a1a0a507cbd44a457f3&sub=4EB008D54AF74890976EB6C9014F200A)
 
 其他资料：
-+ #### [学习资料---推荐多多浏览](https://github.com/Bubble-water/deeplearning/blob/master/%E5%AD%A6%E4%B9%A0%E8%B5%84%E6%96%99.md)
++ [学习资料](http://note.youdao.com/noteshare?id=e4598e03330c2c26c6fe713b6b792ce2&sub=1317688C484543918E281FD758A0751D)
 + [论文查找和下载](http://note.youdao.com/noteshare?id=713f336aea3736f5b9a3175395c0468a&sub=ECD7BE79AED640FC863D2EC43A3A35C2)
 + [参考文献方法](http://note.youdao.com/noteshare?id=d2ca2afdc50b97cd5d10ce7ad44bf141&sub=7A4E0024B0BD45359227318AE7060E1C)
 + [arxiv论文怎么读](http://note.youdao.com/noteshare?id=42a06ee91e679d750ffc3dc049d3751e&sub=4A727CDDA3FF4F50B748FE6D3DDA0548)
