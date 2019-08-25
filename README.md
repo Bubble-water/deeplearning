@@ -15,10 +15,15 @@
 
 七、[ubuntu c++版本opencv安装](http://note.youdao.com/noteshare?id=2f57e026127393d7fc078a6cb1b9598b&sub=ABB136F8F05C43D78391F83BECF4DB94)  
 
-八、[YOLO安装](http://note.youdao.com/noteshare?id=49c34adb21a6f281469bfcc3d3ee82b3&sub=1367D6970A6446C29FF8DFD7E7C2EE32) 
-+ 8.1 [训练自己数据集](http://note.youdao.com/noteshare?id=7ddb40caa5eb439d7cbd6b13ddf543bf&sub=37DC8922EC4340B298D0206DA11D9435)
-+ 8.2 [yolo提升技能--待续(waiting)]()
-
+八、YOLO官方框架
++ 8.1 [yolo安装测试](http://note.youdao.com/noteshare?id=49c34adb21a6f281469bfcc3d3ee82b3&sub=1367D6970A6446C29FF8DFD7E7C2EE32)
++ 8.1 训练自己数据集
+    * [自己数据集转成yolo格式](http://note.youdao.com/noteshare?id=7ddb40caa5eb439d7cbd6b13ddf543bf&sub=37DC8922EC4340B298D0206DA11D9435)
+    * [代码](http://note.youdao.com/noteshare?id=bc08e509741a1791a698f6b02bdc1c34)
++ 8.2 yolo提升技能
+    * [opencv-dnn模块使用darknet](http://note.youdao.com/noteshare?id=e9502bac8b9a624f66a41847a2e0371d&sub=093C7CD04527403E95B765FDE761F044)
+    * [源码编译生成动态库使用](http://note.youdao.com/noteshare?id=966440429cfac67fb3824faae9cb7c24&sub=08B70D1BBBD94D14B04E5F9BE8E81DEC)
+    
 九、虚拟环境--版本号管理  
 + 9.1 [anaconda虚拟环境](http://note.youdao.com/noteshare?id=42be69200321a6cb03ce80f70cc29b0c&sub=16482F6C29CC43CB9418168EF4C083DD)
     * [pycharm导入虚拟环境](http://note.youdao.com/noteshare?id=f39ff1edb02db384473a366077b30571&sub=WEBdaec9747ab45ee3fce43b023d496b46c)
@@ -38,7 +43,27 @@
     * 数据增广
         * [杰哥](https://github.com/spytensor/image_aug_for_detection)
         * [张哥](https://github.com/maozezhong/CV_ToolBox/tree/master/DataAugForObjectDetection)
-    * [待续(waiting)]()
+    * pytorch
+        + pytorch hub
+            * [中文简介](https://tech.sina.com.cn/csj/2019-06-11/doc-ihvhiews8066092.shtml)
+            * [测试版PyTorch Hub](https://pytorch.org/hub)
+            * [官方介绍博客](https://pytorch.org/blog/towards-reproducible-research-with-pytorch-hub/)
+            * [PyTorch Hub的GitHub主页](https://github.com/pytorch/hub)
+        + [Detectron](https://github.com/facebookresearch/Detectron)
+        + [yolo--待续(waiting)]()
+        + [faster-rcnn--待续(waiting)]()
+        + [mask-rcnn]()
+            * [maskrcnn-benchmark](https://github.com/facebookresearch/maskrcnn-benchmark)
+            * [MODEL_ZOO](https://github.com/facebookresearch/maskrcnn-benchmark/blob/master/MODEL_ZOO.md)
+            * [自己数据集--待续(waiting)]()
+        + [unet--待续(waiting)]()
+    * mmdetection
+        + [mmdetection](https://github.com/open-mmlab/mmdetection)
+        + [mmdetection安装、测试--待续(waiting)](http://note.youdao.com/noteshare?id=a95b7ab62b4c2c51a4dbbca9fa925b69&sub=WEBc3359cc78dc9e9bdf6bedb5788e14863)
+        + [mmdetection faster-rcnn--待续(waiting)]()
+        + [mmdetection mask-rcnn--待续(waiting)]()
+        + [mmdetection unet--待续(waiting)]()
+       
 + 10.2 openpose
     - [待续(waiting)]()
 + 10.3 video understanding
@@ -59,6 +84,8 @@
 十二、openvino
 + 12.1 [ubuntu16.04安装openvino](http://note.youdao.com/noteshare?id=8512f1238521d19de65db974cb6cbaac&sub=WEB74805ef8771071d5f6a59a72c9fabc27)
 + 12.2 [openvino资料](http://note.youdao.com/noteshare?id=9e88be5252db8f0e252655d4df375824&sub=WEBaad155b5ec1c9ef73c1d9a6e3fcae776)
++ 12.3 openvino实践
+    * [待续(waiting)]()
 
 十三、深度学习深层理解
 + 13.1 [待续(waiting)]()
