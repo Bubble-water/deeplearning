@@ -1,3 +1,5 @@
+[TOC] 
+
 一、装系统  
 + 1.1 [ubuntu系统镜像链接](http://note.youdao.com/noteshare?id=8d2854f7afcef0f707eb488e15536239&sub=95DDAD1F5E044C3E8D070E87D001FA2B)   
 + 1.2 [刻录镜像盘](http://note.youdao.com/noteshare?id=345f6cb56f5e5070aeaeecde6145f94b&sub=0E01296BC8734890AFB4DEF0B5AEB3E8)   
@@ -51,11 +53,11 @@
             * [PyTorch Hub的GitHub主页](https://github.com/pytorch/hub)
         + [Detectron](https://github.com/facebookresearch/Detectron)
         + [yolo--待续(waiting)]()
-        + [faster-rcnn--待续(waiting)]()
+        + [faster-rcnn](http://note.youdao.com/noteshare?id=c221e3f926e69048047aa5ae4d77b0c3&sub=WEB2421ed7ba69085cb5a0aef09ebe0908e)
         + [mask-rcnn]()
             * [maskrcnn-benchmark](https://github.com/facebookresearch/maskrcnn-benchmark)
             * [MODEL_ZOO](https://github.com/facebookresearch/maskrcnn-benchmark/blob/master/MODEL_ZOO.md)
-            * [自己数据集--待续(waiting)]()
+            * [训练自己数据集](http://note.youdao.com/noteshare?id=c221e3f926e69048047aa5ae4d77b0c3&sub=WEB2421ed7ba69085cb5a0aef09ebe0908e)
         + [unet--待续(waiting)]()
     * mmdetection
         + [mmdetection](https://github.com/open-mmlab/mmdetection)
