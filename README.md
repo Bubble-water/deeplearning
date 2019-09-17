@@ -1,5 +1,3 @@
-[TOC] 
-
 一、装系统  
 + 1.1 [ubuntu系统镜像链接](http://note.youdao.com/noteshare?id=8d2854f7afcef0f707eb488e15536239&sub=95DDAD1F5E044C3E8D070E87D001FA2B)   
 + 1.2 [刻录镜像盘](http://note.youdao.com/noteshare?id=345f6cb56f5e5070aeaeecde6145f94b&sub=0E01296BC8734890AFB4DEF0B5AEB3E8)   
@@ -15,7 +13,10 @@
 
 六、[pytorch安装](http://note.youdao.com/noteshare?id=3e2e734e26ecd1e0c763505c312eaed5&sub=27DBBD2A18594353992ABFAB2BDEDE61)  
 
-七、[ubuntu c++版本opencv安装](http://note.youdao.com/noteshare?id=2f57e026127393d7fc078a6cb1b9598b&sub=ABB136F8F05C43D78391F83BECF4DB94)  
+七、opencv安装
++ 7.1 [ubuntu c++版本opencv安装](http://note.youdao.com/noteshare?id=2f57e026127393d7fc078a6cb1b9598b&sub=ABB136F8F05C43D78391F83BECF4DB94) 
++ 7.2 [win10 c++版本opencv安装](https://blog.csdn.net/fengxinzioo/article/details/88767399)
++ 7.3 [pip安装python版的opencv](http://note.youdao.com/noteshare?id=4cd0d23eecc047acaa3390a938b854d5&sub=1CF13CC8F66542A69E31F01A8FD2615A)
 
 八、YOLO官方框架
 + 8.1 [yolo安装测试](http://note.youdao.com/noteshare?id=49c34adb21a6f281469bfcc3d3ee82b3&sub=1367D6970A6446C29FF8DFD7E7C2EE32)
@@ -53,17 +54,21 @@
             * [PyTorch Hub的GitHub主页](https://github.com/pytorch/hub)
         + [Detectron](https://github.com/facebookresearch/Detectron)
         + [yolo--待续(waiting)]()
-        + [faster-rcnn](http://note.youdao.com/noteshare?id=c221e3f926e69048047aa5ae4d77b0c3&sub=WEB2421ed7ba69085cb5a0aef09ebe0908e)
-        + [mask-rcnn]()
+        + faster-rcnn
+            * [maskrcnn-benchmark](https://github.com/facebookresearch/maskrcnn-benchmark)
+            * [MODEL_ZOO](https://github.com/facebookresearch/maskrcnn-benchmark/blob/master/MODEL_ZOO.md)
+            * [训练自己数据集](http://note.youdao.com/noteshare?id=c221e3f926e69048047aa5ae4d77b0c3&sub=WEB2421ed7ba69085cb5a0aef09ebe0908e)
+        + mask-rcnn
             * [maskrcnn-benchmark](https://github.com/facebookresearch/maskrcnn-benchmark)
             * [MODEL_ZOO](https://github.com/facebookresearch/maskrcnn-benchmark/blob/master/MODEL_ZOO.md)
             * [训练自己数据集](http://note.youdao.com/noteshare?id=c221e3f926e69048047aa5ae4d77b0c3&sub=WEB2421ed7ba69085cb5a0aef09ebe0908e)
         + [unet--待续(waiting)]()
     * mmdetection
         + [mmdetection](https://github.com/open-mmlab/mmdetection)
-        + [mmdetection安装、测试--待续(waiting)](http://note.youdao.com/noteshare?id=a95b7ab62b4c2c51a4dbbca9fa925b69&sub=WEBc3359cc78dc9e9bdf6bedb5788e14863)
-        + [mmdetection faster-rcnn--待续(waiting)]()
-        + [mmdetection mask-rcnn--待续(waiting)]()
+        + [MODEL_ZOO](https://github.com/open-mmlab/mmdetection/blob/master/docs/MODEL_ZOO.md)
+        + [mmdetection安装、测试](http://note.youdao.com/noteshare?id=d6a042f76dceb9d29b4243f13df30c47&sub=WEB8cff7e76020d17e8a03443f5c232bb4f)
+        + [mmdetection faster-rcnn自己数据集](http://note.youdao.com/noteshare?id=8fa446cb298a913b08594ddb3f0e1980)
+        + [mmdetection mask-rcnn自己数据集](http://note.youdao.com/noteshare?id=8fa446cb298a913b08594ddb3f0e1980&sub=WEB61f3799147a00ccfcde767330542055d)
         + [mmdetection unet--待续(waiting)]()
        
 + 10.2 openpose
