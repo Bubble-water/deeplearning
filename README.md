@@ -89,7 +89,9 @@
     * [cmake源码编译-->opencv(c++,python)](http://note.youdao.com/noteshare?id=a2d29c31c416cc5cea837b0eb8ae2271&sub=WEB554ecce5e60f91682bc0426b0ddc1056)
 
 十二、openvino
-+ 12.1 [ubuntu16.04安装openvino](http://note.youdao.com/noteshare?id=8512f1238521d19de65db974cb6cbaac&sub=WEB74805ef8771071d5f6a59a72c9fabc27)
++ 12.1 openvino安装
+    + [ubuntu16.04安装openvino](http://note.youdao.com/noteshare?id=8512f1238521d19de65db974cb6cbaac&sub=WEB74805ef8771071d5f6a59a72c9fabc27)
+    + [windows10安装openvino](http://note.youdao.com/noteshare?id=47d714a00763e470a47b5ca454e6f4ea&sub=WEBc5be18835df60cd584e948a397eb0359)
 + 12.2 [openvino资料](http://note.youdao.com/noteshare?id=9e88be5252db8f0e252655d4df375824&sub=WEBaad155b5ec1c9ef73c1d9a6e3fcae776)
 + 12.3 openvino实践
     * [待续(waiting)]()
@@ -108,7 +110,7 @@
 + [参考文献方法](http://note.youdao.com/noteshare?id=d2ca2afdc50b97cd5d10ce7ad44bf141&sub=7A4E0024B0BD45359227318AE7060E1C)
 + [arxiv论文怎么读](http://note.youdao.com/noteshare?id=42a06ee91e679d750ffc3dc049d3751e&sub=4A727CDDA3FF4F50B748FE6D3DDA0548)
 
-+ [pip和conda换国内源](http://note.youdao.com/noteshare?id=f7daffbb051dfe0dd0944f8abdef5f6b&sub=83D349B121874BBAA7EB519D7B9C48BC)
++ [pip和conda换国内源](https://github.com/Bubble-water/deeplearning/blob/master/pip%E5%92%8Cconda%E6%8D%A2%E5%9B%BD%E5%86%85%E6%BA%90.md)
 + [解决：Ubuntu16.04循环登录和重新安装显卡驱动](http://note.youdao.com/noteshare?id=26b3fd8d702ad1e72c96381386fcf500&sub=4445DD8709504B7497833860970818E4)
 + [虚拟机安装linux系统界面显示不全解决办法](http://note.youdao.com/noteshare?id=0d08fde70b892d3b6c3be77d491f9b26&sub=9C957CE5F2264F1CA9B0897252285B09)
 + [查看python包路径和版本号](http://note.youdao.com/noteshare?id=2d91e786aa91c30b9c955dbf8067943f&sub=86D2887F3F964A418CFD0EBD7E7E4203)
