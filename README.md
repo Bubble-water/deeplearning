@@ -70,7 +70,11 @@
         + [mmdetection faster-rcnn自己数据集](http://note.youdao.com/noteshare?id=8fa446cb298a913b08594ddb3f0e1980)
         + [mmdetection mask-rcnn自己数据集](http://note.youdao.com/noteshare?id=8fa446cb298a913b08594ddb3f0e1980&sub=WEB61f3799147a00ccfcde767330542055d)
         + [mmdetection unet--待续(waiting)]()
-       
+    * CenterNet
+        + [ubuntu16.04 pytorch1.1.0 cda10.0安装和测试centernet](http://note.youdao.com/noteshare?id=f56d2b06769d42b9ef8400d914690cd9&sub=WEBa54ca59886e009c971e6e966ce300ce9)
+        + [Windows10环境配置及训练自己的数据集](http://note.youdao.com/noteshare?id=c6563a68fc8579b91df39ee3b1f79961&sub=A02E80BA21CD4C21925A0E27868998BB)
+       + 工程部署
+            + [待续(waiting)]()
 + 10.2 openpose
     - [待续(waiting)]()
 + 10.3 video understanding
