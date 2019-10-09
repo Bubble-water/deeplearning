@@ -1,3 +1,5 @@
+[TOC] 
+
 一、装系统  
 + 1.1 [ubuntu系统镜像链接](http://note.youdao.com/noteshare?id=8d2854f7afcef0f707eb488e15536239&sub=95DDAD1F5E044C3E8D070E87D001FA2B)   
 + 1.2 [刻录镜像盘](http://note.youdao.com/noteshare?id=345f6cb56f5e5070aeaeecde6145f94b&sub=0E01296BC8734890AFB4DEF0B5AEB3E8)   
@@ -75,11 +77,13 @@
         + [Windows10环境配置及训练自己的数据集](http://note.youdao.com/noteshare?id=c6563a68fc8579b91df39ee3b1f79961&sub=A02E80BA21CD4C21925A0E27868998BB)
        + 工程部署
             + [待续(waiting)]()
-+ 10.2 openpose
-    - [待续(waiting)]()
-+ 10.3 video understanding
++ 10.2 object tracking
+    - [multiple-object tracking](http://note.youdao.com/noteshare?id=53be2ed43287eda2d900aa98ec72a50c)
++ 10.3 人体关节点
+    - [openpose](http://note.youdao.com/noteshare?id=ba8433f8e75217507016cf92f5a46e74)
++ 10.4 video understanding
     + [待续(waiting)]()
-+ 10.4 NLP
++ 10.5 NLP
     * [待续(waiting)]()
 
 十一、树莓派(轻量化模型实践)
@@ -109,7 +113,7 @@
 + 14.2 [docker一些命令](http://note.youdao.com/noteshare?id=81923c1c11d36a1a0a507cbd44a457f3&sub=4EB008D54AF74890976EB6C9014F200A)
 
 其他资料：
-+ [学习资料](https://github.com/Bubble-water/deeplearning/blob/master/%E5%AD%A6%E4%B9%A0%E8%B5%84%E6%96%99.md)
++ [学习资料](http://note.youdao.com/noteshare?id=e4598e03330c2c26c6fe713b6b792ce2&sub=1317688C484543918E281FD758A0751D)
 + [论文查找和下载](http://note.youdao.com/noteshare?id=713f336aea3736f5b9a3175395c0468a&sub=ECD7BE79AED640FC863D2EC43A3A35C2)
 + [参考文献方法](http://note.youdao.com/noteshare?id=d2ca2afdc50b97cd5d10ce7ad44bf141&sub=7A4E0024B0BD45359227318AE7060E1C)
 + [arxiv论文怎么读](http://note.youdao.com/noteshare?id=42a06ee91e679d750ffc3dc049d3751e&sub=4A727CDDA3FF4F50B748FE6D3DDA0548)
