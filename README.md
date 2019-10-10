@@ -1,5 +1,3 @@
-[TOC] 
-
 一、装系统  
 + 1.1 [ubuntu系统镜像链接](http://note.youdao.com/noteshare?id=8d2854f7afcef0f707eb488e15536239&sub=95DDAD1F5E044C3E8D070E87D001FA2B)   
 + 1.2 [刻录镜像盘](http://note.youdao.com/noteshare?id=345f6cb56f5e5070aeaeecde6145f94b&sub=0E01296BC8734890AFB4DEF0B5AEB3E8)   
@@ -79,7 +77,7 @@
             + [待续(waiting)]()
 + 10.2 object tracking
     - [multiple-object tracking](http://note.youdao.com/noteshare?id=53be2ed43287eda2d900aa98ec72a50c)
-+ 10.3 人体关节点
++ 10.3 人体姿态
     - [openpose](http://note.youdao.com/noteshare?id=ba8433f8e75217507016cf92f5a46e74)
 + 10.4 video understanding
     + [待续(waiting)]()
