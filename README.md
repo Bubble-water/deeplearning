@@ -86,6 +86,8 @@
     + [待续(waiting)]()
 + 10.5 NLP
     * [待续(waiting)]()
++ 10.6 人脸检测和识别
+    * [人脸检测相关资料](http://note.youdao.com/noteshare?id=2775011d252d24b7ffe25ac745d85121)
 
 十一、树莓派(轻量化模型实践)
 + 11.1 [系统安装](http://note.youdao.com/noteshare?id=aa30892237f8a924f8a3a89cca73d3d8&sub=7FB58236A2034101902868B32032261F)
