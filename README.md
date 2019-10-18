@@ -1,6 +1,6 @@
 一、装系统  
 + 1.1 [ubuntu系统镜像链接](http://note.youdao.com/noteshare?id=8d2854f7afcef0f707eb488e15536239&sub=95DDAD1F5E044C3E8D070E87D001FA2B)   
-+ 1.2 [刻录镜像盘](http://note.youdao.com/noteshare?id=345f6cb56f5e5070aeaeecde6145f94b&sub=0E01296BC8734890AFB4DEF0B5AEB3E8)   
++ 1.2 [刻录镜像盘](http://note.youdao.com/noteshare?id=db328cb199bf72dd25a879a6dba93b8f&sub=200BD965391044EC815F4A21ADF94833)   
 + 1.3 [做ubuntu系统](http://note.youdao.com/noteshare?id=3545e0cfde5ea4b58ddc3d999ca32911&sub=0223DFF8B1FB4E46BFE565F2D743FFED)  
 
 二、[nvidia显卡驱动安装](http://note.youdao.com/noteshare?id=b19435701f4e6a5133f7e6d0425f3705&sub=FAD9B32FA17347B899CE8DA4A65C77D8)  
