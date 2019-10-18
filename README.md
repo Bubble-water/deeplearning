@@ -75,6 +75,9 @@
         + [Windows10环境配置及训练自己的数据集](http://note.youdao.com/noteshare?id=c6563a68fc8579b91df39ee3b1f79961&sub=A02E80BA21CD4C21925A0E27868998BB)
        + 工程部署
             + [待续(waiting)]()
+    * detectron2
+       + 安装和测试
+            + [docker版](http://note.youdao.com/noteshare?id=7c04f60bc214561af23cfb1f7df58a83)
 + 10.2 object tracking
     - [multiple-object tracking](http://note.youdao.com/noteshare?id=53be2ed43287eda2d900aa98ec72a50c)
 + 10.3 人体姿态
