@@ -76,6 +76,7 @@
        + 工程部署
             + [待续(waiting)]()
     * detectron2
+       + [官方源码](https://github.com/facebookresearch/detectron2)
        + 安装和测试
             + [docker版](http://note.youdao.com/noteshare?id=7c04f60bc214561af23cfb1f7df58a83)
 + 10.2 object tracking
