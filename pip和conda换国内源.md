@@ -12,6 +12,7 @@ index-url = https://pypi.tuna.tsinghua.edu.cn/simple
 [install]  
 trusted-host=pypi.tuna.tsinghua.edu.cn   
 ```
+推荐阿里源
 阿里源内容写：   
 ```
 [global]  
