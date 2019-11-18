@@ -7,7 +7,9 @@
 
 三、[cuda和cudnn安装](http://note.youdao.com/noteshare?id=37733a47511ed1ef5ad57f16f5b59bca&sub=08FF78F413F643EF88C55CE98CED84FA)  
 
-四、[anaconda安装](http://note.youdao.com/noteshare?id=ac5489887fdb5a289238ab135c93048a&sub=4D79E2D7EAA64B7D93FD9D8FF00C5064)  
+四、anaconda安装
++ 4.1 [ubuntu安装anaconda](http://note.youdao.com/noteshare?id=ac5489887fdb5a289238ab135c93048a&sub=4D79E2D7EAA64B7D93FD9D8FF00C5064) 
++ 4.2 [windows安装anaconda](http://note.youdao.com/noteshare?id=80058bde28fc998fb8d62e44d7a8313b&sub=169CA287AA6442A6ACD04F36D97F24A1)
 
 五、[tensorflow和keras安装](http://note.youdao.com/noteshare?id=efabd685c2add61a38750ec1a812dcd9&sub=2EB753EDE7BA4E94AF70DE46563D689F)  
 
@@ -26,6 +28,7 @@
 + 8.2 yolo提升技能
     * [opencv-dnn模块使用darknet](http://note.youdao.com/noteshare?id=e9502bac8b9a624f66a41847a2e0371d&sub=093C7CD04527403E95B765FDE761F044)
     * [源码编译生成动态库使用](http://note.youdao.com/noteshare?id=966440429cfac67fb3824faae9cb7c24&sub=08B70D1BBBD94D14B04E5F9BE8E81DEC)
+    * [yolo系列资料](http://note.youdao.com/noteshare?id=e0bc3ce14b8994b8a09dbb84de39f09b&sub=0ECAB3CD91E84995989D97B44AED7687)
     
 九、虚拟环境--版本号管理  
 + 9.1 [anaconda虚拟环境](http://note.youdao.com/noteshare?id=42be69200321a6cb03ce80f70cc29b0c&sub=16482F6C29CC43CB9418168EF4C083DD)
@@ -81,14 +84,12 @@
             + [docker版](http://note.youdao.com/noteshare?id=7c04f60bc214561af23cfb1f7df58a83)
 + 10.2 object tracking
     - [multiple-object tracking](http://note.youdao.com/noteshare?id=53be2ed43287eda2d900aa98ec72a50c)
-+ 10.3 人体姿态
-    - [openpose](http://note.youdao.com/noteshare?id=ba8433f8e75217507016cf92f5a46e74)
-+ 10.4 video understanding
-    + [待续(waiting)]()
-+ 10.5 NLP
++ 10.3 video understanding
+    + [视频分类、行为识别、视频理解](http://note.youdao.com/noteshare?id=c1fbff0e0cddcb0c23402154c3a16596&sub=WEB1a4e0cbed62dd0aa101821662f1c343d)
++ 10.4 NLP
     * [待续(waiting)]()
-+ 10.6 人脸检测和识别
-    * [人脸检测相关资料](http://note.youdao.com/noteshare?id=2775011d252d24b7ffe25ac745d85121)
++ 10.5 人脸检测和识别
+    * [人脸检测和识别系列资料](http://note.youdao.com/noteshare?id=2775011d252d24b7ffe25ac745d85121&sub=WEBe5abe90b41e4799374a237f7e406ca6a)
 
 十一、树莓派(轻量化模型实践)
 + 11.1 [系统安装](http://note.youdao.com/noteshare?id=aa30892237f8a924f8a3a89cca73d3d8&sub=7FB58236A2034101902868B32032261F)
