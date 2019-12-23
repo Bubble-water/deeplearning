@@ -32,13 +32,16 @@ vim ~/.pip/pip.conf
 ```
 [global]  
 index-url = https://pypi.tuna.tsinghua.edu.cn/simple  
+[install]  
+trusted-host=pypi.tuna.tsinghua.edu.cn 
  ```
 ### 推荐阿里源
 阿里源内容写：
 ```
-[global]    
+[global]
+index-url = https://mirrors.aliyun.com/pypi/simple/
+[install]
 trusted-host=mirrors.aliyun.com  
-index-url=https://mirrors.aliyun.com/pypi/simple/  
 ```
 ---
 # conda  
